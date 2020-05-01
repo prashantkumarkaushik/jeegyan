@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to right, rgb(177, 213, 251), rgb(255, 255, 255));
+    background: linear-gradient(to right, rgb(255, 255, 255) ,rgb(177, 213, 251));
     background-repeat: repeat-y;
     margin: auto 0;
     font-family: monospace;
